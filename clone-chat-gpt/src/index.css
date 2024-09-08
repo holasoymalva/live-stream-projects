@@ -1,0 +1,59 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.chat-box {
+  width: 400px;
+  height: 500px;
+  border: 1px solid #ccc;
+  overflow-y: scroll;
+  margin: 0 auto 20px;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+.message {
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  max-width: 80%;
+}
+
+.user {
+  background-color: #d1e7fd;
+  text-align: right;
+  margin-left: auto;
+}
+
+.bot {
+  background-color: #ffe4e1;
+  text-align: left;
+}
+
+.input-box {
+  display: flex;
+  justify-content: center;
+}
+
+input[type="text"] {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
