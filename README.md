@@ -94,4 +94,4 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ---
 
-<p align="center">Hecho con ❤️ por <a href="https://holasoymalva.dev">@holasoymalva</a></p>
+<p align="center">Hecho con ❤️ por <a href="https://holasoymalva.com">@holasoymalva</a></p>
